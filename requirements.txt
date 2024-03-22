@@ -5,3 +5,17 @@ seaborn
 numpy
 plotly.graph_objects 
 plotly.express
+streamlit_folium
+PIL
+IPython.display
+folium.plugins
+folium
+os
+sklearn.metrics
+statsmodels.formula.api
+statsmodels.api
+sklearn.metrics
+sklearn.linear_model
+sklearn.model_selection
+sklearn.model_selection
+sklearn.linear_model
